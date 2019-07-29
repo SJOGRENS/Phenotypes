@@ -1,1 +1,1 @@
-# Phenotypes
+# Symptom Based Subgroups
